@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme-Negar
+# Portfolio-Negar
 
 Isn't it great.
 
